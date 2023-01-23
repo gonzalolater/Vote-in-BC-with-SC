@@ -1,5 +1,8 @@
+
 # Vote-in-BC-with-SC
-A smart contract to make a votationg.
+Vote in BlockChain with SmartContract.
+
+A smart contract to make a votationg
 
 ![image](https://user-images.githubusercontent.com/42863568/214154225-2835f30f-b567-4af7-9108-dc68a7dd0d18.png)
 
